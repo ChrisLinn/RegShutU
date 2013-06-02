@@ -1,6 +1,7 @@
 RegShutU
 ========
 
-To be improve:
-1.interface
-2.supprt for other platform
+Disable your U disk by reg.
+
+
+Wait for interface improvement,and multi-sys availability.
