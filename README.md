@@ -4,4 +4,7 @@ RegShutU
 Disable your U disk by reg.
 
 
-Wait for interface improvement,and multi-sys availability.
++To be improve:
++1.interface
++2.support for other OS
+
